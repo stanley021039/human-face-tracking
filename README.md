@@ -1,4 +1,4 @@
-# Video Streaming and tracking Homework 3 - Tracking=
+# Video Streaming and tracking Homework 3 - Tracking
 ## Objective
 ### Implementing visual multiple objects tracking on the screen(camera or videos).
 ### Tracking only one object that the user chooses.

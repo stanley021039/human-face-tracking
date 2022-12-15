@@ -11,3 +11,5 @@
 ## Result
 ### Input video: example_video.mp4
 ### Output video: output_video.mp4
+![image](https://github.com/stanley021039/human-face-tracking/blob/main/example/output_video1.gif)
+![image](https://github.com/stanley021039/human-face-tracking/blob/main/example/output_video2.gif)
